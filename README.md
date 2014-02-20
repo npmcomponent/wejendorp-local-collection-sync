@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wejendorp/local-collection-sync](http://github.com/wejendorp/local-collection-sync). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wejendorp-local-collection-sync`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # local-collection-sync
 Note: Work in progress!
 

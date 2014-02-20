@@ -1,9 +1,15 @@
 {
-  "name": "local-collection-sync",
+  "name": "wejendorp-local-collection-sync",
+  "description": "Server communication plugin for local-collection",
   "version": "0.0.1",
-  "description": "",
+  "keywords": [
+    "collection",
+    "store",
+    "cache",
+    "sync"
+  ],
   "main": "lib/index.js",
   "dependencies": {
-    "express": "~3.3.4"
+    "visionmedia-superagent": "git://github.com/npmcomponent/visionmedia-superagent.git"
   }
 }
